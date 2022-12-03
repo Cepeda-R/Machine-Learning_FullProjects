@@ -3,14 +3,14 @@ Machine Learning Projects from gathering data, ETL, Data Analysis, Train Test &a
 
 Weather Predictive Model - Apply ML to forecast weather
 
-*(i) Data Gathering & ELT (Fillna)*
+    *(i) Data Gathering & ELT (Fillna)*
 
-*(ii) Remove columns without relationship*
+    *(ii) Remove columns without relationship*
 
-*(iii) Apply KNN Model to Train Data & Test Data*
+    *(iii) Apply KNN Model to Train Data & Test Data*
 
-*(iiii) Flask Web Service Input Form Data Gathering*
+    *(iiii) Flask Web Service Input Form Data Gathering*
 
-*(iiiii) Apply inputs into ML model, obtain Forecast*
+    *(iiiii) Apply inputs into ML model, obtain Forecast*
 
-*(iiiiii) Flask provide with answer to User*
+    *(iiiiii) Flask provide with answer to User*
